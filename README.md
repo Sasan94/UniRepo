@@ -19,6 +19,3 @@ These exercises are part of my learning process and reflect my gradual progress 
 - Prepare for more advanced AI and Machine
   Learning projects. 
 - Document my learning journey in a           structured way. 
-
-## Mentorship
-Guided by Prof. [Mahdi Farhani](https://github.com/Mahdi-Farhani) at Najafabad University.
