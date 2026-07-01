@@ -2,7 +2,7 @@
 This folder includes small mini projects in python designed to practice programming skills and basic problem solving. Each project is independent and techniques.
 
 ## 📂 Projects Included
-- 🔢 **Matrix Multiplication**
+- 🔢 **Matrix Operations**
 - 🏦 **Simple Banking System**
 - 🚗 **Parking Lot Booking System** 
 
