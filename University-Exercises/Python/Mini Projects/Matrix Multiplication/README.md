@@ -1,9 +1,9 @@
-# Matrix Multiplication breif description
+# Matrix Operations breif description
 
 #### First of all I would like to thank professor Gilbert Strang form whom I learned linear Algebra in the best possible way.
 
 ## Purpose
-This program is designed to multiply two matrices without using the NumPy library or other external libraries.
+This program is designed to three operations such as addition, multiplication, and subtraction without using the NumPy library or other external libraries.
 
 ## Key Concepts
 - The number of columns in the first matrix must equal the number of rows in the second matrix.
@@ -13,7 +13,7 @@ This program is designed to multiply two matrices without using the NumPy librar
 
 ## Objectives
 - Take user input to define matrices.
-- Multiply matrices using nested loops.
+- Operations using nested loops.
 - Save and show the result.
   
 ## Skills Practiced
